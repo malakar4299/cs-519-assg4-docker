@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.32106.67",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=1207bab3-bf85-4f8b-a7c9-aa744e3996a9;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "CONNECTION_STRING": "AccountEndpoint=https://cs-519-assg-5-am.documents.azure.com:443/;AccountKey=60PUo2tmk6udXP4LVamW81BlPD3fRPJrvVdWQDCHOjYM7YgNGbo669B8GGVWrKgICMqpshdbTzDfACDbo5mdPg==;",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "1207bab3-bf85-4f8b-a7c9-aa744e3996a9",
+    "WEBSITE_NODE_DEFAULT_VERSION": "18.12.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=assg3cs519am811d;AccountKey=Y+7JrHrSaCcqlHKKiW6Ih3w5aaqm0ndy5DEZUjBri515sCQ4wF3YNpN38CVWovIsmCsRgj8XRMSi+AStWrPntQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "warehouse-am-519-project9008",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=assg3cs519am811d;AccountKey=Y+7JrHrSaCcqlHKKiW6Ih3w5aaqm0ndy5DEZUjBri515sCQ4wF3YNpN38CVWovIsmCsRgj8XRMSi+AStWrPntQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "warehouse-am-519-project",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout"
+  }
+}

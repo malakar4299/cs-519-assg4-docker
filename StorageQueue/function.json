@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "warehouse-data",
+      "connection": "AzureWebJobsStorage"
+    },
+    {
+      "name": "productImage",
+      "databaseName": "warehouse-data",
+      "collectionName": "product",
+      "connectionStringSetting": "CONNECTION_STRING",
+      "direction": "out",
+      "type": "cosmosDB"
+    }
+  ]
+}
